@@ -1,7 +1,10 @@
-flask
-gunicorn
-pillow
+Flask
 requests
 pandas
+numpy
+matplotlib
+seaborn
+beautifulsoup4
+Pillow
 openai
-zipfile36
+duckdb
